@@ -7,8 +7,7 @@ I’m @carrierpigeondev
 ### 🥲 Rust (Since December 2023)
  
 ## Other stuff about me, I guess
-I mainly use ***Windows 11*** for programming because I'm familiar with it, but I've experimented with Debian and Ubuntu.  
-Never got an Arch vm to work properly (ie. never got past the install) :)  
+I mainly use ***Windows 11*** for programming because I'm familiar with it, but I've experimented with Debian, Ubuntu, and Arch :)  
 
 I use ***VSCode*** for Python, ***Visual Studio 2022*** for C#, and ***Rust Rover*** for Rust. ***Neovim*** when not using Windows.  
 
