@@ -5,6 +5,7 @@ I’m @carrierpigeondev
 ### 🐍 Python (Since December 2022)
 ### 🎵 C# + Unity (Since August 2023)
 ### 🥲 Rust (Since December 2023)
+### ☕ JS + HTML + CSS (ehhhh, only when needed to make a ui, not for fun)
 ### 🔥 Mojo (TBD; Whenever the VSCode extension has better syntax highlighting)
  
 ## Other stuff about me, I guess
