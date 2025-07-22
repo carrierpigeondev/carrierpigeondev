@@ -5,8 +5,8 @@ I’m @carrierpigeondev
 ### 🐍 Python (Since December 2022)
 ### 🎵 C# + Unity (Since August 2023)
 ### 🥲 Rust (Since December 2023)
-### ☕ JS + HTML + CSS (ehhhh, only when needed to make a ui, not for fun)
-### 🔥 Mojo (TBD; Whenever the VSCode extension has better syntax highlighting)
+### 🪟 PowerShell (Since... sometime)
+### 🦫 Go (Since July 2025)
  
 ## Other stuff about me, I guess
 I mainly use ***Windows 11*** for programming because I'm familiar with it, but I've experimented with Debian, Ubuntu, Arch, Fedora, Kali, and WSL :)  
