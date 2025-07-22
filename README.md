@@ -9,8 +9,8 @@ I’m @carrierpigeondev
 ### 🦫 Go (Since July 2025)
  
 ## Other stuff about me, I guess
-I mainly use ***Windows 11*** for programming because I'm familiar with it, but I've experimented with Debian, Ubuntu, Arch, Fedora, Kali, and WSL :)  
+I mainly use ***Windows 11*** for programming because I'm familiar with it, use ***Ubuntu 24.04*** in WSL on my desktop, and dual-boot Windows 11 and Pop!_OS on my old Alienware laptop (surpisingly good support).  
 
-I use ***VSCode*** for Python, ***Visual Studio 2022*** for C#, and ***Rust Rover*** for Rust. ***Neovim*** when not using Windows.  
+I use ***VSCode*** for all languages except for C#, ***Visual Studio 2022*** for C#. ***Neovim*** when not using Windows.  
 
 *Contact me via email (carrierpigeon.dev@gmail.com). I don't check my email often though :P*
